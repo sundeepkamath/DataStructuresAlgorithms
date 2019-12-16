@@ -5,7 +5,7 @@ using System.Text;
 namespace CodingProblems.Strings
 {
     //Time complexity: O(n)
-    public class StringOperations
+    public partial class StringOperations
     {
         public static string ReverseWordsInString(string inputString)
         {
